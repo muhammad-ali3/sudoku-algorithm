@@ -1,6 +1,9 @@
 # sudoku-algorithm
 A python based script for solving and generating sudoku grids using algorithms.
 
+![Static Badge](https://img.shields.io/badge/Get_Source-Click_Here-blue?style=for-the-badge&logo=git&link=https%3A%2F%2Fgithub.com%2Fmuhammad-ali3%2Fsudoku-algorithm.git)
+
+
 ## Algorithm is based on 5 steps:
 
 1.  Generate a full grid of numbers (fully filled in). This step is more complex as it seems as we cannot just randomly generate numbers to fill in the grid. We have to make sure that these numbers are positioned on the grid following the Sudoku rules. To do so will use a sudoku solver algorithm (backtracking algorithm) that we will apply to an empty grid. We will add a random element to this solver algorithm to make sure that a new grid is generated every time we run it.
