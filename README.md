@@ -1,7 +1,7 @@
 # sudoku-algorithm
 A python based script for solving and generating sudoku grids using algorithms.
 
-[![source](https://img.shields.io/badge/Get_Source-Click_Here-brown.svg?style=for-the-badge&logo=git)](LICENSE)
+[![source](https://img.shields.io/badge/Get_Source-Click_Here-brown.svg?style=for-the-badge&logo=git)](https://github.com/muhammad-ali3/sudoku-algorithm.git)
 
 ## Algorithm is based on 5 steps:
 
